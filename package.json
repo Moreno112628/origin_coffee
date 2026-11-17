@@ -1,0 +1,13 @@
+{
+  "name": "origin-coffee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Informative website prototype for Origin Coffee",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "node --test backend/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
